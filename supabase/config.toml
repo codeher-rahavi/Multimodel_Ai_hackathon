@@ -1,0 +1,5 @@
+project_id = "itndlavxqcycxlsyqrfz"
+
+[functions.ai-tutor]
+verify_jwt = false
+entrypoint = "./functions/ai-tutor/index.ts"
